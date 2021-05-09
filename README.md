@@ -5,3 +5,5 @@ A step-by-step introduction to PyGame.
 <p>Game_Code3 introduces boundaries for the character in the game.</p> 
 <p>Game_Code4 introduces an enemy character in the game and makes it appear at random positions on th game surface.</p> 
 <p>Game_Code5 provides motion to the enemy sprite and brings it closer to the main character everytime it collides with the boundary walls.</p> 
+<p>Game_Code6 incorporates bullets into the game but with certain restrictions.</p> 
+<p>Game_Code7 incorporates multiple bullets into the game with the proper requirements in terms of position.</p> 
