@@ -7,3 +7,4 @@ A step-by-step introduction to PyGame.
 <p>Game_Code5 provides motion to the enemy sprite and brings it closer to the main character everytime it collides with the boundary walls.</p> 
 <p>Game_Code6 incorporates bullets into the game but with certain restrictions.</p> 
 <p>Game_Code7 incorporates multiple bullets into the game with the proper requirements in terms of position.</p> 
+<p>Game_Code7 introduces collision detection and thereafter the events triggered after collision.</p> 
