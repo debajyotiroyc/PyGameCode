@@ -9,3 +9,4 @@ A step-by-step introduction to PyGame.
 <p>Game_Code7 incorporates multiple bullets into the game with the proper requirements in terms of position.</p> 
 <p>Game_Code8 introduces collision detection and thereafter the events triggered by the collision.</p> 
 <p>Game_Code9 shows how to display text in our screen.</p> 
+<p>Game_Code10 establishes the requirements to end the game and display the concluding statement after the game finishes. </p> 
